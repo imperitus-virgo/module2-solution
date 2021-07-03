@@ -3,16 +3,16 @@
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
-	color: green;
+	color: #FF8C00;
 	font-size: 175%;
 	text-align: center;
 }
 
 section {
-	border: 2px solid black;
+	border: 1px solid black;
 	background-color: #8FBC8F;
-	height: 300px;
-	overflow: auto;
+	height: 150px;
+	
 }
 
 h2 {
@@ -20,9 +20,9 @@ h2 {
 	border:  1px solid black;
 	color:  #F0F8FF;
 	font-size:  125%;
-	padding:  10pm 25px 10px 25px;
+	padding:  5px 20px 5px 20px;
 	margin-top: 0;
-	margin-bottom: 25px;
+        margin-bottom: 20px;
 }
 
 p {
@@ -30,7 +30,8 @@ p {
 		margin-right: auto;
 		margin-left: auto;
 		font-family: Times New Roman;
-		color: black;
+		color: #FFF8DC;
+                padding: 5px 40px 5px 10px;
 	}
 
 	#HTML {
