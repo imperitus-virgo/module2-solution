@@ -1,3 +1,5 @@
+/* Base Styles */
+
 * {
 	box-sizing: border-box;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -12,7 +14,9 @@ section {
 	border: 1px solid black;
 	background-color: #8FBC8F;
 	height: 150px;
-	
+        width: 90%;
+        margin-right: auto;
+        margin-left: auto;
 }
 
 h2 {
@@ -25,26 +29,27 @@ h2 {
         margin-bottom: 20px;
 }
 
+#HTML {
+            background-color: #DCDCDC;
+	}
+
+#CSS {
+	    background-color: #808080;
+	}
+
+#Javascript {
+		  background-color: #DEB887;
+	}
+
 p {
 		width: 90%;
 		margin-right: auto;
 		margin-left: auto;
 		font-family: Times New Roman;
 		color: #FFF8DC;
-                padding: 5px 40px 5px 10px;
+                padding: 20px 5px 15px 5px;
 	}
 
-	#HTML {
-		background-color: #DCDCDC;
-	}
-
-	#CSS {
-		background-color: #808080;
-	}
-
-	#Javascript {
-		background-color: ##778899;
-	}
 
 	/* Simple Responsive Framework. */
 	.row {
