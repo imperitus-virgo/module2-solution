@@ -11,10 +11,8 @@ h1 {
 section {
 	border: 1px solid black;
 	background-color: #8FBC8F;
-	height: 165px;
-        width: 90%;
-        margin-right: auto;
-        margin-left: auto;
+	height: 250px;
+        overflow: auto;
         
 }
 
@@ -40,13 +38,6 @@ h2 {
 		  background-color: #DEB887;
 	}
 
-p {
-		width: 90%;
-		margin-right: auto;
-		margin-left: auto;
-		color: #FFF8DC;
-                padding: 20px 5px 20px 5px;
-	}
 
 
 	/********** Desktop version **********/
