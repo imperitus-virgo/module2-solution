@@ -20,7 +20,7 @@ section {
         font-family: Helvetica;
 }
 
-h2 {
+span {
 	float: right;
 	border:  1px solid black;
 	color:  #F0F8FF;
