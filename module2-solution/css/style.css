@@ -27,6 +27,10 @@ h2 {
         margin-bottom: 20px;
 }
 
+p {     padding: 5px 20px 5px 20px;
+	margin-right: auto;
+        margin-left: auto;
+        
 #html {
             background-color: #DCDCDC;
 	}
