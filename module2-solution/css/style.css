@@ -19,7 +19,7 @@ section {
         margin-left: auto;
 }
 
-h2 {
+container {
 	float: right;
 	border:  1px solid black;
 	color:  #F0F8FF;
